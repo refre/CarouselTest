@@ -28,7 +28,7 @@ namespace CarouselTest
 
             button.BackgroundColor = Color.Blue;
 
-            
+
 
             await DisplayAlert("Message", $"The displayed color is {labelName.Text}", "Ok");
 
